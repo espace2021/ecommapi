@@ -1,0 +1,985 @@
+{
+  "articles": 
+[{
+  "_id": {
+    "$oid": "60a1694a5508622064fcbbb0"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751504/images/chips.jpg.jpg"
+  ],
+  "reference": "Chips",
+  "designation": "Pringles Chips Pringles ORG 40gr",
+  "marque": " Pringles",
+  "prixAchat": 2.8,
+  "prixVente": 3.37,
+  "qtestock": 100,
+  "caracteristiques": "chips  Pringles BBQ  Quantité: 40gr; SKU: PR816FF00MGVGNAFAMZ Poids (kg): 1 Type de boutique: Jumia Mall",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658751504/images/chips.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19392"
+  }
+},{
+  "_id": {
+    "$oid": "60a16eba5508622064fcbbb1"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751548/images/huilealjazeera3.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751553/images/huilealjazeera4.jpg.jpg"
+  ],
+  "reference": "Huilejs",
+  "designation": "Al Jazira Huile de grignons d'olive",
+  "marque": "Al Jazira",
+  "prixAchat": 20.3,
+  "prixVente": 23.5,
+  "qtestock": 120,
+  "caracteristiques": "L’huile qui résiste le mieux à la chaleur (Point de fumé 238 degré) goût délicat et neutre ,pratiquement sans odeur mêmes propriétés que l’huile d’olive vierge Idéale pour la cuisson et même la fritures  Acidité inférieure a 1% DLC 10/02/2023 A conserver au frais et à l’abri du soleil Permet des fritures répétées jusqu’à  fois 5 fois Emballage économique en plastique aliment",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658751537/images/huilealjazeera.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19393"
+  }
+},{
+  "_id": {
+    "$oid": "60a16f4e5508622064fcbbb2"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754255/images/laitdelice.jpg.jpg"
+  ],
+  "reference": "lait",
+  "designation": "Delice Lait UHT demi-écrémé - 1L",
+  "marque": "Delice",
+  "prixAchat": 1.2,
+  "prixVente": 1.35,
+  "qtestock": 1000,
+  "caracteristiques": "Information notionnelle par 100g :  Protéines en g : 1.5 Glucides en g : 4.5 Matières Grasses en g : 3 Valeurs énergétiques  en KJ : 178",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754255/images/laitdelice.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19391"
+  }
+},{
+  "_id": {
+    "$oid": "60a170105508622064fcbbb3"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751100/images/eausabrine1.jpg.jpg"
+  ],
+  "reference": "eauxmin",
+  "designation": "Delice EAU MINÉRALE 1.5 L",
+  "marque": "Delice",
+  "prixAchat": 0.39,
+  "prixVente": 0.58,
+  "qtestock": 1000,
+  "caracteristiques": "EAU MINÉRALE  1.5 L",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754189/images/eausabrine.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19391"
+  }
+},{
+  "_id": {
+    "$oid": "60a170c05508622064fcbbb4"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754221/images/farine1.jpg.jpg"
+  ],
+  "reference": "farsan",
+  "designation": "Sanabel Carthage Farine Paquet De 1Kg",
+  "marque": " Sanabel Carthage",
+  "prixAchat": 0.7,
+  "prixVente": 0.85,
+  "qtestock": 220,
+  "caracteristiques": "Farine paquet de 1Kg",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754214/images/farine.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1938f"
+  }
+},{
+  "_id": {
+    "$oid": "60a171315508622064fcbbb5"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751036/images/deliceorange1.jpg.jpg"
+  ],
+  "reference": "delpush",
+  "designation": "Delice Punch Orange 1,5L",
+  "marque": "Delice",
+  "prixAchat": 1.6,
+  "prixVente": 2.3,
+  "qtestock": 85,
+  "caracteristiques": "Date Limite de consommation 9 mois à partir de la date de fabrication dans des conditions de conservation optimum.",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754135/images/deliceorange.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19390"
+  }
+},{
+  "_id": {
+    "$oid": "60a171bc5508622064fcbbb6"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755130/images/sicamtomate1.jpg.jpg"
+  ],
+  "reference": "Sicamtom",
+  "designation": "Sicam DCT 1/2 SICAM",
+  "marque": "Sicam",
+  "prixAchat": 2.3,
+  "prixVente": 2.5,
+  "qtestock": 85,
+  "caracteristiques": "DCT 1/2 SICAM Ref : 6194055500128",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755124/images/sicamtomate.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19392"
+  }
+},{
+  "_id": {
+    "$oid": "60a173325508622064fcbbb7"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755241/images/elmanarthon.jpg.jpg"
+  ],
+  "reference": "thon",
+  "designation": "El Manar Lot de 3 Thon entier Extra - A l'huile d'olive",
+  "marque": "Elmanar",
+  "prixAchat": 8.9,
+  "prixVente": 12.5,
+  "qtestock": 85,
+  "caracteristiques": "Lot de 3 Thon entier Extra A l'huile d'olive vierge 1 Offert Poids : 160g*3",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755235/images/fnarThon.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19392"
+  }
+},{
+  "_id": {
+    "$oid": "60a17e995cac7624f04676b2"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751043/images/delicedelio1.jpg.jpg"
+  ],
+  "reference": "delio",
+  "designation": "Delice Déli'O Menthe - 25Cl",
+  "marque": "Delice",
+  "prixAchat": 0.59,
+  "prixVente": 0.65,
+  "qtestock": 100,
+  "caracteristiques": "VALEUR énergétique: 137 KJ PROTÉINES: 0 G GLUCIDES: 7,47 G Graminées Matières: 0",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754036/images/delicedelio.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a160adc1b48f332c9740c5"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19390"
+  }
+},{
+  "_id": {
+    "$oid": "60a189eb5cac7624f04676b3"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754663/images/infinix4.jpg.jpg"
+  ],
+  "reference": "Infinix",
+  "designation": "Infinix Smart 5 - 6.6\" - 3 Go - 64 Go - Quetzal Cyan ",
+  "marque": "280",
+  "prixAchat": null,
+  "prixVente": 349,
+  "qtestock": 25,
+  "caracteristiques": "Ecran 6.63 IPS LCD , Resolution : 720 x 1600 pixels Mémoire RAM: 3 Go - Stockage: 64 Go Appareil Photo Arriére: 13 MP + QVGA + QVGA (X657 model) Caméra Selfie : 8 MP Processeur: quadricœur Mediatek MT6761D Batterie : Li-Po 5000 mAh ; Charging 10W Système d'exploitation : Android 10 (Go edition) Empreinte digitale (montée à l'arrière), accéléromètre, gyroscope, proximité",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754656/images/infinix2.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a18b345cac7624f04676b4"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754348/images/samsungGalaxy2.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754354/images/samsungGalaxy.jpg.jpg"
+  ],
+  "reference": "GalaxyA02",
+  "designation": "Samsung Galaxy A02 s - 6.5\" - 4Go - 64Go - Noir",
+  "marque": "Samsung",
+  "prixAchat": 380,
+  "prixVente": 429,
+  "qtestock": 100,
+  "caracteristiques": "Résolution 720 x 1520 pixels RAM (mémoire) 4GB Stockage interne 64GB Couleurs d'affichage 16 M Densité de pixels 259 PPI (pixels par pouce) Écran tactile CPU Cortex-A53 octa-core 1,8 GHz GPU Adreno 506 Emplacement pour carte mémoire Système opérateur Android 10 Caméra arrière 13 MP (grand angle) + 2 MP (macro) + 2 MP (profondeur) Éclat Flash LED Caméra frontale 5 MP Connectivité : Wifi , USB , microUSB 2.0 , GPS, avec A-GPS, GLONASS, GALILEO, BDS Capacité batterie Li-Po 5000 mAh + Cha rge rapide 15W​",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754339/images/samsungGalaxy1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a18c345cac7624f04676b5"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755185/images/tecno1.jpg.jpg"
+  ],
+  "reference": "TecnoOC",
+  "designation": "Tecno Spark 6 - 6.8\" - 4 Go - 128 Go",
+  "marque": "Tecno",
+  "prixAchat": 370,
+  "prixVente": 469,
+  "qtestock": 80,
+  "caracteristiques": "Écran 6,8\" 128 Go de ROM + 4 Go de RAM Caméra Quad 16MP (large) + 2MP (Macro) + 2MP (Profondeur) + QVGA + Flash Appareil photo frontal 8MP Batterie : 5000mAh + Charge Rapide 18W Processeur : Octa Core HELIO G70 Capteur d'empreinte Digital Android 10 \"Q\"",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755208/images/tecno.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a18cde5cac7624f04676b6"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658750159/images/A12-2.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751441/images/A12-1.jpg.jpg"
+  ],
+  "reference": "A12",
+  "designation": "Samsung Galaxy A12 - 6.5\" - 4 Go - 128 Go",
+  "marque": "Samsung",
+  "prixAchat": 543,
+  "prixVente": 555,
+  "qtestock": 123,
+  "caracteristiques": "Ecran : 6.5\" PLS IPS ; Résolution :  720 x 1600 pixels Mémoire RAM : 4 Go - Stockage: 128 Go  Appareil photo Arriere : Quad ; 48 MP, f / 2.0 (large) , 5 MP, f / 2.2 (ultra-large) , 2 MP, f / 2.4, (macro) , 2 MP, f / 2.4, (profondeur) Camera Selfie : 8 MP, f / 2,2 Processeur : Octa-core ; Chipset : Mediatek MT6765 Helio P35 Capacité Batterie : 5000 mAh Systéme d'exploitation : Android 10 Capteurs : Empreinte digitale (montée sur le côté), accéléromètre... Garantie: 1 an",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658751429/images/about.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a18db35cac7624f04676b7"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755192/images/tecno4-1.jpg.jpg"
+  ],
+  "reference": "Techno4",
+  "designation": "Tecno Pop 4 - 6\"- 2Go - 32Go",
+  "marque": "Tecno",
+  "prixAchat": 220,
+  "prixVente": 269,
+  "qtestock": 85,
+  "caracteristiques": "Ecran: 6\" IPS LCD  Processeur: Quad core 1.3GHz  Système d'exploitation: Android 10(Go edition)  Mémoire RAM: 2 Go  Stockage: 32 Go  Appareil Photo Arriére: 8 Mégapixel  + Flash LED  Appareil Photo Frontale: 5 Mégapixel  Capacité de Batterie: 5000 mAh avec Wifi, GPS, Bluetooth  Double SIM  Empreinte digitale  Couleur: vert Garantie: 12 mois",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755185/images/tecno1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a18e295cac7624f04676b8"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754930/images/nokia1.jpg.jpg"
+  ],
+  "reference": "Nokia1",
+  "designation": "Nokia 1.4 - 6.52\" - 2 Go - 32 Go - Charcoal",
+  "marque": "Nokia",
+  "prixAchat": 250,
+  "prixVente": 285,
+  "qtestock": 100,
+  "caracteristiques": "Ecran :  6.52\" IPS LCD - Résolution :  720 x 1600 pixels Mémoire RAM : 2 Go - Stockage 32 Go Appareil photo Arriere: 8 MP (wide) , 2 MP (macro) ; Caméra Frontale : 5 MP Chipset : Qualcomm QM215 Snapdragon 215 Batterie : 4000 mAh Systéme d'exploitation :Android 10 (édition Go), mise à niveau prévue vers Android 11 (édition Go) Garantie : 1 an",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754923/images/nokia.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19366"
+  }
+},{
+  "_id": {
+    "$oid": "60a18f135cac7624f04676b9"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658750701/images/xioami1.jpg.jpg"
+  ],
+  "reference": "redmi9",
+  "designation": "XIAOMI Redmi 9 - 6.53\" - 4 Go - 64 Go ",
+  "marque": "Xioami",
+  "prixAchat": 440,
+  "prixVente": 600,
+  "qtestock": 100,
+  "caracteristiques": "Écran : 6.53\" IPS LCD , Résolution : 1080 x 2340 pixels Mémoire RAM : 4 Go - Stockage : 64 Go Apareil Photo Arriére :  13 MP, f/2.2, 28mm (wide), 1/3.1\", 1.12µm, PDAF 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm 5 MP, f/2.4, (macro) 2 MP, f/2.4, (depth) ​Caméra Selfie : 8 MP, f/2.0, 27mm (wide) Vidéo : 1080p@30fps Processeur : Mediatek Helio G80 Batterie : Li-Po 5020 mAh  Systéme d'exploitation : Android 10, MIUI 11 Double SIM : (Nano-SIM, dual stand-by) Capteurs : Empreinte digitale (montée à l'arrière), accéléromètre, gyroscope, proximité, boussole Protection : (Gorilla Glass 3), dos en plastique, cadre en plastique",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658750695/images/xioami.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a228cf11241a2650cfd3c2"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755159/images/tab1.jpg.jpg"
+  ],
+  "reference": "Tablog",
+  "designation": "Logicom La Tab Link 71 - 7\"- 16GB",
+  "marque": "Logicom",
+  "prixAchat": 140,
+  "prixVente": 184,
+  "qtestock": 20,
+  "caracteristiques": "Ecran 7\" Capacitif multipoint Mémoire 16 Go jusqu'à 32 Go  RAM 1 Go Appareils Photos: 2 MP (Arrière), 0.3 MP (Frontale) Tablette Logicom LA TAB Link 71  Garantie 1 an Résolution 1024 x 600 pixels  Processeur Quad-core 1.3GHz Android 7.0 Nougat Batterie: Jusqu'a 8H de musique et 2H30 de video avec 3G Wifi - Bluetooth 4.0 - Batterie 2500 mAh  Couleur : Black",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755151/images/tab.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a229a111241a2650cfd3c3"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754727/images/lenov5.jpg.jpg"
+  ],
+  "reference": "Lenoouv1",
+  "designation": "Lenovo Tab M7 7.0 - 16GB",
+  "marque": "Lenouv",
+  "prixAchat": 240,
+  "prixVente": 269,
+  "qtestock": 25,
+  "caracteristiques": "Ecran : 9.6\" 800x1280 pixels Android  7.0; EMUI 5.1 Processeur :Quad-core 1.4 GHz Cortex-A53 Camera: 5MP/2MP RAM : 1 Go Internal : 16 Go Couleur : space gray Batterie : 3100 mAh 12 mois de garantie ",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754720/images/lenov21.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a22a4e11241a2650cfd3c4"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754637/images/hwawi2.jpg.jpg"
+  ],
+  "reference": "Huawi1",
+  "designation": "Huawei Tablette - MatePad T",
+  "marque": "Huawei",
+  "prixAchat": 299,
+  "prixVente": 384,
+  "qtestock": 10,
+  "caracteristiques": "Écran LCD 8 \" Processeur MTK MT8768 Système d'exploitation EMUI10 (basé sur Android 10) Mémoire RAM 2 Go, Stockage 16 Go  Appareil photo Arrière 5 Mégapixels et Avant 2 Mégapixels Batterie:5100mAh Garantie 1 an",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754627/images/hwawi1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a22adb11241a2650cfd3c5"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754595/images/hw2.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754602/images/hw3.jpg.jpg"
+  ],
+  "reference": "Huawei10",
+  "designation": "Huawei MatePad T - 10",
+  "marque": "Huawei",
+  "prixAchat": 355,
+  "prixVente": 499,
+  "qtestock": 50,
+  "caracteristiques": "Ecran:9.7″ • Résolution:(1280 x 800, 156ppi) • Système d’exploitation: EMUI 10.1 (basé sur Android 10) • Mémoire RAM: 2 Go  Stockage: 32Go  • Appareil Photo Arriéré: 5 MP • Appareil Photo Frontale: 2 MP • Autonomie de Batterie: 5100 mAh • Garantie.1an",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754588/images/hw.jpg.jpg",
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  }
+},{
+  "_id": {
+    "$oid": "60a22cbc11241a2650cfd3c6"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754507/images/hp2.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754517/images/hp4.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754533/images/hp10.jpg.jpg"
+  ],
+  "reference": "HP1",
+  "designation": "Hp PC Portable - 13.3\" - Intel Core™ i5-7200U",
+  "marque": "Hp",
+  "prixAchat": 3800,
+  "prixVente": 4280,
+  "qtestock": 10,
+  "caracteristiques": "Ecran: 13.3\" Tactile FHD IPS WLED  (1920 x 1080 Pixels) Processeur: Intel Core™ i5-7200U (2,5 GHz, jusqu'à 3.1 GHz, 3 Mo de mémoire cache, 2 cœurs)  Systéme d'exploitation: Windows 10 PRO 64 Bits  Mémoire RAM: 8 Go DDR4 - Disque Dur: 256 Go SSD   Carte Graphique: Carte graphique Intel® HD 620  avec wifi, Bluetooth 4.2 - Poids: 1.28 ",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754499/images/HP1.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19376"
+  }
+},{
+  "_id": {
+    "$oid": "60a22db911241a2650cfd3c7"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754782/images/lenov3.jpg.jpg"
+  ],
+  "reference": "lenov1",
+  "designation": "Lenovo PC Portable ThinkBook - i3 10è Gén-4Go-1To-Gris",
+  "marque": "Lenovo",
+  "prixAchat": 1100,
+  "prixVente": 1299,
+  "qtestock": 20,
+  "caracteristiques": "Ecran 15.6\" Full HD (1920 x 1080)   Processeur: i3-1005G1 (1.2 Ghz up to 3.4 Ghz, 4 Mo de mémoire cache, Dual-Core)   FreeDos   Mémoire: 4 Go   Disque dur: 1 To  Carte graphique: Intel HD Graphics avec USB 3.1 Gen2 Type-C,   HMDI,   Wifi et Bluetooth  Garantie: 1 an",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754720/images/lenov21.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19376"
+  }
+},{
+  "_id": {
+    "$oid": "60a22e7611241a2650cfd3c8"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754862/images/lenov22.jpg.jpg"
+  ],
+  "reference": "Lenov22",
+  "designation": "Lenovo PC Portable IP330/4000 DualCore/4Go/1To",
+  "marque": "Lenovo",
+  "prixAchat": 840,
+  "prixVente": 899,
+  "qtestock": 10,
+  "caracteristiques": "Ecran 15.6\" HD -  Processeur: Intel Celeron N4000 (1.1 GHz Up To 2.6 GHz, 4 Mo de mémoire cache, Dual-Core) - FreeDos -  Mémoire RAM: 4 Go DDR4 -  Disque Dur: 1 To -  Carte Graphique: Intel HD Graphics avec Bluetooth, et Lecteur de Carte Mémoire 4 En 1 -  Couleur: Gris -  Garantie: 1Ans",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754854/images/lenov23.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19376"
+  }
+},{
+  "_id": {
+    "$oid": "60a22eeb11241a2650cfd3c9"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754067/images/dell1.jpg.jpg"
+  ],
+  "reference": "Dell5570",
+  "designation": "DELL PC Inspiron 5570",
+  "marque": "DELL",
+  "prixAchat": 2200,
+  "prixVente": 2470,
+  "qtestock": 10,
+  "caracteristiques": "Ecran 15.6\" LED Full HD (1920 x 1080 px)   Processeur: Intel® Core i7- 8550U 8ème Génération ( 1.80 GHz jusqu‘à 4.00 GHz, 8 Mo Cache, Quad-core )   Système d'exploitation:  FreeDos   Mémoire RAM: 8 Go DDR4  Disque dur: 1 To   Garantie: 1 an  Carte Graphique: AMD Radeon 530 (4 Go GDDR5 de mémoire dédiée) avec Lecteur de cartes - Wifi - Bluetooth - Webcam avec Micro  Couleur: Gold ",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754060/images/dell.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19376"
+  }
+},{
+  "_id": {
+    "$oid": "60a22f6511241a2650cfd3ca"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755322/images/versus4.jpg.jpg"
+  ],
+  "reference": "VersusVBOO",
+  "designation": "Versus Pc portable V-Book - 2 Go",
+  "marque": "Versus",
+  "prixAchat": 300,
+  "prixVente": 469,
+  "qtestock": 50,
+  "caracteristiques": "Ecran: 14\" (1366x768 pixels)  Processeur: Intel CherryTrail T3 Z8350 (1.92Ghz, Quad Core)  Système d'exploitation: Windows 10 Mémoire: 2Go DDR3 - Disque Dur: 32 Go  Carte Graphique: Intel HD Graphics  Caméras: 2MP Frontale Batterie: 9000 mAH avec Wifi, Bluetooth, carte mémoire  Couleur: Silver  Poids: 1.3 kg",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755316/images/versus2.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19376"
+  }
+},{
+  "_id": {
+    "$oid": "60a22ff011241a2650cfd3cb"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754565/images/hp12.jpg.jpg"
+  ],
+  "reference": "HPI3",
+  "designation": "Hp Pc portable I3 11è Gén 8Go",
+  "marque": "Hp",
+  "prixAchat": 1200,
+  "prixVente": 1533,
+  "qtestock": 20,
+  "caracteristiques": "Processeur Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost Technology, 6 MB L3 cache, 2 cores) Ecran: 15.6\" HD 11è Génération  Mémoire:8Go extention sans lecteur DVD 1 to HDD Wifi - Bluetooth Webcam HP avec micro intégré  Système d'exploitation: Windows 10 plus de 7 heures d'autonomie",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754533/images/hp10.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19376"
+  }
+},{
+  "_id": {
+    "$oid": "60a230a011241a2650cfd3cc"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754067/images/dell1.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754073/images/dell2.jpg.jpg"
+  ],
+  "reference": "Dell2C",
+  "designation": "Pc Montage - Core 2 DUO - 4Go - 320Go ",
+  "marque": "DELL",
+  "prixAchat": 488,
+  "prixVente": 599,
+  "qtestock": 25,
+  "caracteristiques": "Ecran 18.5\" HD Processeur : Intel Core 2 DUO E8400 Mémoire RAM: 4Go DDR3 Disque Dur : 320 Go Carte Graphique : Integré Sans Graveur CD Garantie: 1 an",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754060/images/dell.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19375"
+  }
+},{
+  "_id": {
+    "$oid": "60a2312911241a2650cfd3cd"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755109/images/tele2.jpg.jpg"
+  ],
+  "reference": "Samsung5300",
+  "designation": "Samsung Téléviseur 43\" - Flat Smart Full HD TV",
+  "marque": "Samsung",
+  "prixAchat": 1100,
+  "prixVente": 1399,
+  "qtestock": 10,
+  "caracteristiques": "TV Samsung 43\" Série 5 Technologie d'affichage: Full HD Résolution: 1920 x 1080 Dimensions de l'emballage (L x H x P): 1040 x 674 x 136 mm Capteur économique  Classe énergétique: A+ Vidéo Moteur d'image : HyperReal /PQI (Picture Quality Index):300 Motion Rate:50 / Rapport de contraste dynamique/Méga-contraste Audio Sortie audio (RMS) 20 W (L: 10 W, R: 10 W), Type d'enceintes 2 CH (projection vers le bas + Base de Reflex) Smart TV Tuner / Broadcasting Tuner analogique Connectivité HDMI:2 USB:1 Entrée composantes (Y / Pb / pr):1",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755102/images/tele1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936b"
+  }
+},{
+  "_id": {
+    "$oid": "60a2347511241a2650cfd3ce"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751581/images/condor2.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751599/images/condor3.jpg.jpg"
+  ],
+  "reference": "condor1",
+  "designation": "Condor Smart 43SD520 Android v9.0",
+  "marque": "Condor",
+  "prixAchat": 880,
+  "prixVente": 1090,
+  "qtestock": 10,
+  "caracteristiques": "Android TV v9.0 Licence officielle HDR 10 (HDMI/USB) Recherche Vocale Décodeur (MPEG2, MPEG2_HD,MPEG4, MPEG4_SD, MPEG4_HD,H.264, TSHD,MVC, MJPEG, H265) Applications ( Google play store ; YouTube; Google play Games ; Music,Google play; Chromecast …) Garantie 1 an(La garantie n'inclut pas l'afficheur) Jeux HD Supporter les vidéos 4K / UHD via USB HDMI 3 / USB 2 WiF iintégré (802.11a/b/g/n/ac; 2.4G+5G)",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658751608/images/condor1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936b"
+  }
+},{
+  "_id": {
+    "$oid": "60a2355d11241a2650cfd3cf"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658750658/images/telev.jpg.jpg"
+  ],
+  "reference": "43E20",
+  "designation": "Telefunken Téléviseur Smart - 43\" ANDROID",
+  "marque": "Telefunken",
+  "prixAchat": 999,
+  "prixVente": 1149,
+  "qtestock": 10,
+  "caracteristiques": "TV 43\" LED TELEFUNKEN E20 FHD  ANDROID SMART-   Système : Android 9.0 « PIE » -  Ecran sans bordures -  Résolution 1920 x 1080 (FULL HD)-   Assistant Google -  Dolby Digital + -  Réglage de luminosité automatique -  Processeur Quad core «1300MHz» -  2 x USB - 2 x HDMI - 1 x RJ45 -  WIFI -  Bluetooth 4+ -  Garantie 3 ans",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658593291/images/about-bg.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936c"
+  }
+},{
+  "_id": {
+    "$oid": "60a235db11241a2650cfd3d0"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754170/images/f2.jpg.jpg"
+  ],
+  "reference": "E20",
+  "designation": "Telefunken TV 43\" - E20 - LED - Full HD",
+  "marque": "Telefunken",
+  "prixAchat": 890,
+  "prixVente": 1120,
+  "qtestock": 10,
+  "caracteristiques": "Réf: TV E20 SMART ANDROID 4.4 Téléviseur Full HD LED 43\" Résolution: 1080 x 1920  3x HDMI - 1x USB - Sortie RCA - 1x VGA - Entrée AV  Système de protection des yeux  Technologie de lumière naturelle Economie d'énergie  Dolby Digital  Couleur Noir Garantie 3 ans",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754162/images/f1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936a"
+  }
+},{
+  "_id": {
+    "$oid": "60a2364d11241a2650cfd3d1"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754888/images/lg1.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754895/images/lg2.jpg.jpg"
+  ],
+  "reference": "LG1",
+  "designation": "LG TV LG 4K Smart UHD UN73 de 43 pouces",
+  "marque": "LG",
+  "prixAchat": 1200,
+  "prixVente": 1459,
+  "qtestock": 10,
+  "caracteristiques": "Taille de l’écran 43 pouces Résolution Smart Ultra hd 4K Type de connecteur  3 HDMI, 2 USB, Wifi, Bluetooth Tnt intègre  Recepteur intègre  Audio Son Surround Virtuel Référence: UN73 Garantie 2 an(La garantie n'inclut pas l'afficheur)",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754881/images/lg.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936a"
+  }
+},{
+  "_id": {
+    "$oid": "60a2373b11241a2650cfd3d2"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755298/images/s11.jpg.jpg"
+  ],
+  "reference": "UA43N5300",
+  "designation": "Samsung Tv - 43\" Full HD Smart N5300",
+  "marque": "1200",
+  "prixAchat": 1100,
+  "prixVente": 1429,
+  "qtestock": 10,
+  "caracteristiques": "Téléviseur SAMSUNG 43\" Full HD Smart TV Serie 5 Résolution: 1920 x 1080 pixels  Picture Engine: HyperReal  Rapport de Contraste: Méga-contraste Audio: Dolby Digital Plus  Tuner analogique  Connecteurs:  2 x HDMI - 1 x USB, 1 x Entreé composant, 1 x Entrée AV, 1 x Sortie Audio numérique, 1 x Entreé ",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755290/images/s1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936b"
+  }
+},{
+  "_id": {
+    "$oid": "60a237d811241a2650cfd3d3"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755270/images/crystal2.jpg.jpg"
+  ],
+  "reference": "TU7100",
+  "designation": "Samsung TV Crystal UHD 50 pouces ",
+  "marque": "Samsung",
+  "prixAchat": 1900,
+  "prixVente": 2100,
+  "qtestock": 1920,
+  "caracteristiques": "Téléviseur SAMSUNG 50\" UHD  SMART TV  Résolution: 4K UHD (3840 x 2160 Pixels)  Alimentation: AC220-240V 50/60Hz  Type de haut-parleur: 2CH  Connectivitéa: WIFI  Connecteur:  2x HDMI, 1x USB, 1x Ethernet RJ45  Garantie : 2 ans(La garantie n'inclut pas l'afficheur)",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755263/images/crystal1.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936c"
+  }
+},{
+  "_id": {
+    "$oid": "60a2388c11241a2650cfd3d4"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754006/images/curved1.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754015/images/curved2.jpg.jpg"
+  ],
+  "reference": "curved1",
+  "designation": "Samsung Curved TV 65 4K UHD",
+  "marque": "Samsung",
+  "prixAchat": 4200,
+  "prixVente": 5299,
+  "qtestock": 10,
+  "caracteristiques": "Réf:UA65KU7350 Téléviseur Samsung 65\" UHD 4K (3840 x 2160) Curved - Smart TV Courbure 4,200R Garantie : 2 ans(La garantie n'inclut pas l'afficheur) PurColor - Dolby Digital Plus - Apps Navigateur Internet Tuner analogique Haut Parleur 20 W - 3x HDMI - 2x USB - Wi-Fi - Ethernet - Anynet+ - Smart View - PurColor Processeur Quadri-cœur Dimensions 1635.0 x 955.0 x 230.0 mm Poids 36,5 kg",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658753996/images/curved.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936c"
+  }
+},{
+  "_id": {
+    "$oid": "60a2394a11241a2650cfd3d5"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755077/images/hd4.jpg.jpg"
+  ],
+  "reference": "Sams55",
+  "designation": "Samsung Téléviseur 55\" LED ULTRA HD 4K Smart tv",
+  "marque": "Samsung",
+  "prixAchat": 2200,
+  "prixVente": 2999,
+  "qtestock": 10,
+  "caracteristiques": "Ecran 55'' Crystal Processor 4K Résolution: 3840 x 2160 pixels Smart TV OS Tizen™ HDR 10+ / PurColor / UHD Dimming Partage d'écran Mobile vers TV 2 x HDMI 1 x USB 1x sortie audio digital Ethernet Wifi Bluetooth Audio: Dolby Digital Plus Tuner analogique DVB-T2CS2 Couleur : Noir Garantie : 2 ans",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755069/images/hd2.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936c"
+  }
+},{
+  "_id": {
+    "$oid": "60a239cd11241a2650cfd3d6"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658755043/images/k41.jpg.jpg"
+  ],
+  "reference": "RU7100",
+  "designation": "Samsung Smart 4K TV UHD - 65\" ",
+  "marque": "Samsung",
+  "prixAchat": 4200,
+  "prixVente": 4399,
+  "qtestock": 10,
+  "caracteristiques": "Réf: 65RU7100 Téléviseur Samsung 65\" UHD 4K (3840 x 2160) Smart TV Courbure 4,200R Garantie : 2 ans(La garantie n'inclut pas l'afficheur) PurColor - Dolby Digital Plus - Apps Navigateur Internet Tuner analogique Haut Parleur 20 W - 3x HDMI - 2x USB - Wi-Fi - Ethernet - Anynet+ - Smart View - PurColor Processeur Quadri-cœur Dimensions 1635.0 x 955.0 x 230.0 mm Poids 36,5 kg",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658755035/images/k4.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936b"
+  }
+},{
+  "_id": {
+    "$oid": "60a23c3311241a2650cfd3d7"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754459/images/cam2.jpg.jpg"
+  ],
+  "reference": "Home 360",
+  "designation": "XIAOMI Caméra de sécurité XIAOMI Home 360",
+  "marque": "XIAOMI",
+  "prixAchat": 100,
+  "prixVente": 119,
+  "qtestock": 20,
+  "caracteristiques": "Enregistrement à distance ou local via carte SD Compatible avec ANDROID-iOS Avec application 'Mi Home Vidéo Surveillance par Internet avec Audio bi-directionnelle Visibilité :jusqu'à 10 mètres Option alarme Rotation par téléphone ",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658751572/images/cam.jpg.jpg",
+  "categorieID": {
+    "$oid": "609a83b80c806f32e04bb484"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf1936b"
+  }
+},{
+  "_id": {
+    "$oid": "60a23d9d11241a2650cfd3d8"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658749202/images/sport4.jpg.jpg"
+  ],
+  "reference": "pw1",
+  "designation": "Power résistance bands",
+  "marque": "m",
+  "prixAchat": 50,
+  "prixVente": 73,
+  "qtestock": 10,
+  "caracteristiques": "Résistance Réglable Bandes de résistance de haute qualité Évitez de risquer des lésions articulaires avec des poids lourds et libres Plus de 100 exercices différents peuvent être effectués Amplitude de mouvement lisse Compact et léger Espace de stockage minimal Le poignet peut etre en couleur noir bande vert, noir bande rouge ou noir",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754982/images/sport1.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a16051c1b48f332c9740c2"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19383"
+  }
+},{
+  "_id": {
+    "$oid": "60a2401711241a2650cfd3d9"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754307/images/flash3.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754319/images/flash2.jpg.jpg"
+  ],
+  "reference": "flash1",
+  "designation": "Sandisk Flash Disque",
+  "marque": "Sandisk",
+  "prixAchat": 9,
+  "prixVente": 14,
+  "qtestock": 100,
+  "caracteristiques": "Types de connecteur : USB de type A Capacité : 8Go Interface : USB 2.0 Compatible avec différent Systèmes d'exploitations",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754288/images/flash1.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a15febc1b48f332c9740c0"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19375"
+  }
+},{
+  "_id": {
+    "$oid": "60a240c011241a2650cfd3da"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754389/images/g11.jpg.jpg"
+  ],
+  "reference": "Gym1",
+  "designation": "Iron Gym Barre fixe démontable",
+  "marque": "Iron Gym",
+  "prixAchat": 69,
+  "prixVente": 75,
+  "qtestock": 100,
+  "caracteristiques": "Équipement de fitness de qualité Outil moins design Facile à installer Facile à enlever L'utilisation est aussi facile Fournit un certain nombre d'exercices Portable Poids léger",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754379/images/gym.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a16051c1b48f332c9740c2"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19380"
+  }
+},{
+  "_id": {
+    "$oid": "60a2419e11241a2650cfd3db"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754416/images/g6.jpg.jpg"
+  ],
+  "reference": "Gym11",
+  "designation": "Iron Gym Barre fixe démontable",
+  "marque": "Iron Gym",
+  "prixAchat": 50,
+  "prixVente": 59,
+  "qtestock": 10,
+  "caracteristiques": "Équipement de fitness de qualité Outil moins design Facile à installer Facile à enlever L'utilisation est aussi facile Fournit un certain nombre d'exercices Portable Poids léger",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754405/images/g9.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a16051c1b48f332c9740c2"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19383"
+  }
+},{
+  "_id": {
+    "$oid": "60a2423311241a2650cfd3dc"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658751481/images/ballon2.jpg.jpg"
+  ],
+  "reference": "ball65",
+  "designation": "Gym Ball 65cm",
+  "marque": "Gym",
+  "prixAchat": 43,
+  "prixVente": 35,
+  "qtestock": 10,
+  "caracteristiques": "gym ball swiss ball 65cm ballon d'exercices Pour les sportifs stretching",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658749751/images/ballon1.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a16051c1b48f332c9740c2"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19381"
+  }
+},{
+  "_id": {
+    "$oid": "60a2431811241a2650cfd3dd"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754435/images/b2.jpg.jpg"
+  ],
+  "reference": "Halt1",
+  "designation": "Haltères en Néoprène - Paire d'haltères",
+  "marque": "Halt",
+  "prixAchat": 40,
+  "prixVente": 45,
+  "qtestock": 10,
+  "caracteristiques": "Adaptée à un usage fitness les possibilités d'exercices sont multiples, travail des abdominaux, bras, dos épaules.  Leur poignée ergonomique vous garantit un confort sans pareil et une prise en main efficace lors de vos différents exercices.  Leur conception permet d'être utilisé en salle de sport professionnelle, avec un cœur en fonte et revêtue de néoprène, les haltères sauront également préserver votre sol de tous dommages.  Cœur de l'haltère en fonte",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658749741/images/b1.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a16051c1b48f332c9740c2"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19383"
+  }
+},{
+  "_id": {
+    "$oid": "60a24c906979743cf41746a2"
+  },
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754687/images/beaute3.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658754692/images/beaute2.jpg.jpg"
+  ],
+  "reference": "Kreine",
+  "designation": "K-REINE Pack l’indispensable soins de visage k reine",
+  "marque": "Kene",
+  "prixAchat": 25,
+  "prixVente": 35,
+  "qtestock": 10,
+  "caracteristiques": "Ce pack contient :  LAIT DÉMAQUILLANT 200ML YEUX & VISAGE Argan, karité et Camomille LOTION TONIQUE Rafraîchissante et Calmante YEUX & VISAGE K-REINE 200ml GEL NETTOYANT Purifiant pour visage Aloe Vera- Calendula K-REINE 200ml CRÈME DE JOUR POUR VISAGE HYDRA-PROTECTRICE 50 ML K-REINE CRÈME PROTECTRICE HYDRATANTE POUR LES MAINS 100 ML K-REINE",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658754683/images/beaute.jpg.jpg",
+  "categorieID": {
+    "$oid": "60a16099c1b48f332c9740c4"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19384"
+  }
+},{
+  "_id": {
+    "$oid": "62de87016b2517fb9da049dd"
+  },
+  "reference": "123f",
+  "designation": "fds",
+  "prixAchat": 12,
+  "prixVente": 12,
+  "prixSolde": 23,
+  "marque": "fds",
+  "qtestock": 22,
+  "caracteristiques": "vgfdsz",
+  "imageartpetitf": "http://res.cloudinary.com/iset-sfax/image/upload/v1658750165/images/A12.jpg.jpg",
+  "imageartgrandf": [
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658750701/images/xioami1.jpg.jpg",
+    "http://res.cloudinary.com/iset-sfax/image/upload/v1658750709/images/xioami2.jpg.jpg"
+  ],
+  "categorieID": {
+    "$oid": "609e7b4da1f6de3754461b1d"
+  },
+  "scategorieID": {
+    "$oid": "61f06deb3d65ee46baf19370"
+  },
+  "__v": 0
+}]
+}
